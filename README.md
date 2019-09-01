@@ -1,7 +1,7 @@
 # SQL-Exercises-With-Solutions
 This repository will be useful to get started and know SQL better. Practice These Exercises.
 
-![](https://github.com/i-m-aravind/SQL-Exercises-With-Solutions/blob/master/kisspng-microsoft-sql-server-database-server-computer-icon-database-5b3c51e9945e16.0951726515306797856077.jpg)
+![](https://github.com/i-m-aravind/SQL-Exercises-With-Solutions/blob/master/SQL%20icon.jpg)
 
 ## SQL - Structured Query Language
 

@@ -93,7 +93,7 @@ After Completing these Exercises Try to solve Problems on
 - Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)
 
 ## Acknowledgement:
-These are my Solutions and may not be accurate or optimal for you. Use it Just for Reference and Practice on your Own.
+My Solutions for SQL Exercises may not be accurate or optimal for you. Use it Just for Reference and Practice on your Own.
 
 ## Contact
 You can mail me anytime **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.

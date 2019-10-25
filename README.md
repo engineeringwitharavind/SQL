@@ -84,7 +84,7 @@ To get started, you can start by either downloading a zip file of these assignme
 
 Each folder contains two files:
 - A PNG file `.png` contains Questions for all the Exercises Seperately.
-- A python file `.sql` contains solutions done by me. You can correct me if i am wrong and modify it as needed.
+- A SQL file `.sql` contains solutions done by me. You can correct me if i am wrong and modify it as needed.
 
 ## Further Learning:
 After Completing these Exercises Try to solve Problems on

@@ -58,7 +58,7 @@ Used to retrieve Data from Databases.SQL is widely used nowadays because everyth
 ## Tutorial: 
 SQL Tutuorial can be found [Here](https://www.w3schools.com/sql/)
 
-## Know the Data types and Different Function used in SQL:
+## Know the Data types and different Functions used in SQL:
 	
 - **Data Types:** Follow this [Link](https://www.w3schools.com/sql/sql_datatypes.asp)
 - **Functions:** Follow this [Link](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
@@ -70,7 +70,7 @@ Install MS-SQL Server to work on Exercises. To install, Follow this [video](http
 
 After Installation, You need Databases to Practice **SQL**
 
-#### Note: The Following Databases are used in these Exercises. You can Download or create your Databases and work on it.
+#### Note: The Following Databases are used in these Exercises. You can Download it or create your own Databases and work on it.
 
 - Download [Northwind DB](https://www.microsoft.com/en-in/download/details.aspx?id=23654) 
 - Download [Adventure Works DB](https://www.microsoft.com/en-us/download/details.aspx?id=49502)

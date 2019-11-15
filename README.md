@@ -94,6 +94,6 @@ After Completing these Exercises Try to solve Problems on
 
 
 ## Contact
-You can mail me anytime **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
+You can mail me anytime **s.aravindviews@gmail.com** and I will respond within a day. We can collab and learn more.
 
 Good Luck :thumbsup:

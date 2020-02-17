@@ -1,7 +1,7 @@
 # SQL-Exercises-With-Solutions
 This repository will be useful to get started and know SQL better. Practice These Exercises.
 
-![](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions/blob/master/sql%20logo.jpg)
+![](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions/blob/master/675172-data_database_sql_query-128.png)
 
 ## SQL - Structured Query Language
 
@@ -89,7 +89,6 @@ Each folder contains two files:
 ## Further Learning:
 After Completing these Exercises Try to solve Problems on
 - Mode Analytics [Here.](https://mode.com/)
-- LeetCode [Here.](https://leetcode.com/problemset/database/)
 - Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)
 
 

@@ -92,7 +92,4 @@ After Completing these Exercises Try to solve Problems on
 - Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)
 
 
-## Contact
-You can mail me anytime **s.aravindviews@gmail.com** and I will respond within a day. We can collab and learn more.
-
 Good Luck :thumbsup:

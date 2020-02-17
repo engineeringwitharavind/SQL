@@ -90,6 +90,3 @@ Each folder contains two files:
 After Completing these Exercises Try to solve Problems on
 - Mode Analytics [Here.](https://mode.com/)
 - Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)
-
-
-Good Luck :thumbsup:

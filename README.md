@@ -80,7 +80,7 @@ After Installation, You need Databases to Practice **SQL**
 ### Downloading the Exercises
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
 
-> clone https://github.com/i-m-aravind/SQL-Exercises-With-Solutions
+> clone https://github.com/aravind-alpha/SQL-Exercises-With-Solutions
 
 Each folder contains two files:
 - A PNG file `.png` contains Questions for all the Exercises Seperately.

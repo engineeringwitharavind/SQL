@@ -1,5 +1,5 @@
 # SQL-Exercises-With-Solutions
-This repository will be useful to get started and know SQL better. Practice These Exercises.
+This repository will be useful to get started and know **SQL** better. Practice These Exercises.
 
 ![](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions/blob/master/675172-data_database_sql_query-128.png)
 
@@ -45,15 +45,15 @@ Used to retrieve Data from Databases.SQL is widely used nowadays because everyth
 	
 ### Before writing a Querry,Follow these steps
 
--	Analyse the Database and its available tables
--	Select the Tables needed to write our querry
--	Identify the JOIN Condition and JOIN type between the tables
--	Find the Heirarchy of the table Order
--	Define the Condition Statement (eg: WHERE empid = 2)
--	Select the Columns from Different Tables
--	Define Aggregation if needed
--	Data Transformation 
--	Identify ORDER BY if needed
+-	Analyse the Database and its **Available tables**
+-	Select the **Tables needed** to write our querry
+-	Identify the **JOIN Condition** and **JOIN type** between the tables
+-	Find the **Heirarchy** of the table Order
+-	Define the **Condition** Statement (eg: WHERE empid = 2)
+-	Select the **Columns from Different Tables**
+-	Define **Aggregation** if needed
+-	**Data Transformation** 
+-	Identify **ORDER BY** if needed
 
 ### Tutorial: 
 SQL Tutuorial can be found [Here](https://www.w3schools.com/sql/)
@@ -87,6 +87,7 @@ Each folder contains two files:
 - A SQL file `.sql` contains solutions done by me. You can correct me if i am wrong and modify it as needed.
 
 ### Further Learning:
-After Completing these Exercises Try to solve Problems on
+After Completing these Exercises Try to solve SQL Exercises on
+
 - Mode Analytics [Here.](https://mode.com/)
 - Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)

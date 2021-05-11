@@ -62,12 +62,13 @@ Install MS-SQL Server to work on Exercises. To install, Follow this [video](http
 
 After Installation, You need Databases to Practice **SQL**
 
-##### Note: The Following Databases are used in these Exercises. You can Download it or create your own Databases and work on it.
+##### Note: Following Databases are used in these Exercises. You can Download it or create your own Databases and work on it.
 
 - Download [Northwind DB](https://www.microsoft.com/en-in/download/details.aspx?id=23654) 
 - Download [Adventure Works DB](https://www.microsoft.com/en-us/download/details.aspx?id=49502)
+
 - Create **HR DB** on your own 
-  - Creating HR Table and fill the Values to the Table. Queries Available [Here](https://github.com/i-m-aravind/SQL-Exercises-With-Solutions/tree/master/HR-DB)
+- Creating HR Table and fill the Values to the Table. Queries Available [Here](https://github.com/i-m-aravind/SQL-Exercises-With-Solutions/tree/master/HR-DB)
 
 #### Downloading the Exercises
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
@@ -82,4 +83,5 @@ Each folder contains two files:
 After Completing these Exercises Try to solve SQL Exercises on
 
 - Mode Analytics [Here.](https://mode.com/)
+
 - Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)

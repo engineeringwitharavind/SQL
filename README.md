@@ -51,7 +51,8 @@ Used to retrieve Data from Databases.SQL is widely used nowadays because everyth
 -	Identify **ORDER BY** if needed
 
 #### Tutorial: 
-SQL Tutuorial can be found [Here](https://www.w3schools.com/sql/)
+
+- [SQL Tutorial](https://www.w3schools.com/sql/)
 
 #### Know the Data types and different Functions used in SQL:
 	
@@ -73,7 +74,7 @@ After Installation, You need Databases to Practice **SQL**
 
 - Create **HR DB** on your own 
 
-- Creating HR Table and insert the values to the table. Queries available [Here](https://github.com/i-m-aravind/SQL-Exercises-With-Solutions/tree/master/HR-DB)
+- Creating HR Table and insert the values to the table. [Queries](https://github.com/i-m-aravind/SQL-Exercises-With-Solutions/tree/master/HR-DB)
 
 #### Downloading the Exercises:
 
@@ -89,6 +90,6 @@ Each folder contains two files:
 
 After Completing these Exercises Try to solve SQL Exercises on
 
-- Mode Analytics [Here.](https://mode.com/)
+- [Mode Analytics](https://mode.com/)
 
-- Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)
+- [HackerRank](https://www.hackerrank.com/domains/sql)

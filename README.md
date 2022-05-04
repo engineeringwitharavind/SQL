@@ -1,7 +1,7 @@
 ### SQL-Exercises-With-Solutions
 This repository will be useful to get started and know **SQL** better. Practice These Exercises.
 
-![](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions/blob/master/675172-data_database_sql_query-128.png)
+![](https://github.com/engineeringwitharavind/SQL-Exercises-With-Solutions/blob/master/675172-data_database_sql_query-128.png)
 
 #### SQL - Structured Query Language
 
@@ -80,7 +80,7 @@ After Installation, You need Databases to Practice **SQL**
 
 - To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
 
-> git clone https://github.com/aravind-alpha/SQL-Exercises-With-Solutions.git
+> git clone https://github.com/engineeringwitharavind/SQL-Exercises-With-Solutions.git
 
 Each folder contains two files:
 > A PNG file `.png` contains Questions for all the Exercises Seperately.
